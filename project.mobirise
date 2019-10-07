@@ -38,14 +38,16 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 8,
     "versionPublish": "4.10.15",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/picturetopeople.org-cc8cb0966f3b6e0d037a7994a8f204a2885e53e3a3aeab0747-128x78.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Akshat Agrawal - Digital Marketer",
+        "meta_descr": "About me akshat an digital maketer.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
